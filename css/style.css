@@ -120,6 +120,10 @@ blockquote {
     text-align: right;
 }
 
+.not-completed{
+    color:red;
+}
+
 footer p,
 footer a {
     font-size: 13px;
